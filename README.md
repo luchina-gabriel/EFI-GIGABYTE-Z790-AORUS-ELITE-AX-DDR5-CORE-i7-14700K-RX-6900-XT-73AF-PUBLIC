@@ -1,5 +1,7 @@
 # Hackintosh, Gigabyte Z790 AORUS Elite AX [With BIOS Microcode 0x129], Intel Core i7 14700K, AMD Radeon RX 6900 XT [73AF]
 
+![WiFi - OCLP - Activated](https://github.com/user-attachments/assets/070fbb8c-ec29-48bc-81e4-fd039d893ad8)
+
 # Basic Information
 
 **Latest working macOS**: macOS Sonoma (14.6.1)
